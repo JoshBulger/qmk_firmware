@@ -33,3 +33,17 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official website
 
 [http://qmk.fm](http://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+
+## Unofficial fedora packages
+- gcc-avr32-linux-gnu
+- gcc-arm-linux-gnu
+- dfu-util
+- dfu-programmer
+- cross-gcc-common
+- cross-binutils-common
+- binutils-avr32-linux-gnu
+- binutils-arm-linux-gnu
+- avr-libc
+- arm-none-eabi-newlib 
+- arm-none-eabi-binutils-cs 
+- arm-none-eabi-gcc-cs
